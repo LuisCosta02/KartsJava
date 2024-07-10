@@ -17,5 +17,3 @@ This project is a scholar project developed for me and a collegue in the curricu
 
 
     
-const result = Example.doSomething();
-console.log(result);
