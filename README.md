@@ -13,7 +13,7 @@ This project is a scholar project developed for me and a collegue in the curricu
     ```sh
     git clone https://github.com/LuisCosta02/KartsJava.git
     ```
-2. Import the project to your preffered code editor:
+2. Import the project to your preferred code editor:
 
 
     
