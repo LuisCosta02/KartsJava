@@ -15,7 +15,7 @@ This project is a scholar project developed for me and a collegue in the curricu
     ```
 2. Import the project to your preffered code editor:
 
-3.Enjoy!: 
+
     
 const result = Example.doSomething();
 console.log(result);
